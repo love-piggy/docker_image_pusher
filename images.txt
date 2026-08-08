@@ -1,1 +1,3 @@
-ainoe/vllm-deepseek-v4-a100
+#支持指定架构
+--platform=linux/arm64
+ascendai/mindspeed-llm:26.0.0-910b-openeuler24.03-py3.11-aarch64
