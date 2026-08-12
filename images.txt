@@ -1,6 +1,6 @@
-sweb.eval.x86_64.astropy_1776_astropy-13033:latest
-sweb.eval.x86_64.astropy_1776_astropy-13236:latest
-sweb.eval.x86_64.astropy_1776_astropy-13398:latest
-sweb.eval.x86_64.astropy_1776_astropy-13453:latest
-sweb.eval.x86_64.astropy_1776_astropy-13579:latest
-sweb.eval.x86_64.astropy_1776_astropy-13977:latest
+swebench/sweb.eval.x86_64.astropy_1776_astropy-13033:latest
+swebench/sweb.eval.x86_64.astropy_1776_astropy-13236:latest
+swebench/sweb.eval.x86_64.astropy_1776_astropy-13398:latest
+swebench/sweb.eval.x86_64.astropy_1776_astropy-13453:latest
+swebench/sweb.eval.x86_64.astropy_1776_astropy-13579:latest
+swebench/sweb.eval.x86_64.astropy_1776_astropy-13977:latest
