@@ -1,2 +1,6 @@
-#支持指定架构
---platform=linux/arm64 ascendai/mindspeed-llm:26.0.0-910b-openeuler24.03-py3.11-aarch64
+sweb.eval.x86_64.astropy_1776_astropy-13033:latest
+sweb.eval.x86_64.astropy_1776_astropy-13236:latest
+sweb.eval.x86_64.astropy_1776_astropy-13398:latest
+sweb.eval.x86_64.astropy_1776_astropy-13453:latest
+sweb.eval.x86_64.astropy_1776_astropy-13579:latest
+sweb.eval.x86_64.astropy_1776_astropy-13977:latest
